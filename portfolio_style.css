@@ -1,0 +1,47 @@
+header {
+        text-align: center;
+        color: #0d1270;
+        font-family: "Arial", Arial, sans-serif; 
+        background-color: #efece1;
+}
+
+body {
+        background-color: #efece1;
+        font-family: "Arial", Arial, sans-serif; 
+        color: #0d1270
+}
+
+ul {
+        list-style-type: none;
+        background: white;
+        margin: 0;
+        padding: 0;
+        border-style: solid;
+        border-color: black;
+        border-width: 1px;
+        padding: 8px;
+        text-align: center;
+        background-color: #8bcff4;
+
+}
+
+h2 {
+        font-size: 18px;
+}
+
+li {
+        display: inline;
+        padding: 5px;
+        border-style: solid;
+        border-color: black;
+        border-width: 1px;
+        margin: 15px;
+        background-color: #d6d2c2;
+
+}
+
+a {
+        font-size: 12px;
+        text-decoration: none;
+        text-align: center;
+}
