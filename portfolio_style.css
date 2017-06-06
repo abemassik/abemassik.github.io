@@ -25,8 +25,6 @@ ul {
 
 p {
         text-align: justify;
-        max width: 50%;
-        font-size: 24;
         color: #0d1270;
         padding-left: 50px;
         padding-right: 50px;
@@ -38,13 +36,12 @@ p {
 li:link {
         display: inline;
         padding: 5px;
-        float: center;
         border-style: solid;
         border-color: black;
         border-width: 1px;
         margin: 15px;
         background-color: #d6d2c2;
-        font-size: 16 px;
+        font-size: 16px;
         text-decoration: none;
         text-align: center;
 }
