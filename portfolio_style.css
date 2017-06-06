@@ -13,9 +13,7 @@ body {
 
 ul {
         list-style-type: none;
-        background: white;
         margin: 0;
-        padding: 0;
         border-style: solid;
         border-color: black;
         border-width: 1px;
@@ -25,23 +23,51 @@ ul {
 
 }
 
-h2 {
-        font-size: 18px;
+p {
+        text-align: justify;
+        max width: 50%;
+        font-size: 24;
+        color: #0d1270;
+        padding-left: 50px;
+        padding-right: 50px;
+        margin-top: 5px;
+
 }
 
-li {
+
+li:link {
         display: inline;
         padding: 5px;
+        float: center;
         border-style: solid;
         border-color: black;
         border-width: 1px;
         margin: 15px;
         background-color: #d6d2c2;
-
-}
-
-a {
-        font-size: 12px;
+        font-size: 16 px;
         text-decoration: none;
         text-align: center;
 }
+
+li:hover {
+        color: white;
+        background-color: #0d1270;
+}
+
+a {
+        text-decoration: none;
+
+}
+
+h2 {
+        padding-bottom: 0px;
+        margin-bottom: 0px;
+}
+
+h3 {
+        margin-left: 20px;
+        margin-top: 4px;
+        padding-bottom: 0px;
+        margin-bottom: 0px;
+}
+
